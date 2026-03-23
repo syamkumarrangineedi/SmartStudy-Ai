@@ -9,7 +9,7 @@
 
 | Part | Repository |
 |------|-----------|
-| full stack| (Spring Boot) | https://github.com/syamkumarrangineedi/SmartStudy-Ai |
+| full stack (Spring Boot) | https://github.com/syamkumarrangineedi/SmartStudy-Ai |
 
 
 ---
