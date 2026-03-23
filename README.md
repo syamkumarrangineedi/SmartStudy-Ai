@@ -1,26 +1,30 @@
-# SmartStudy-Ai — Backend
+# ai-study-assistant-ui — Frontend
 
-Spring Boot backend for the AI Study Assistant.
+React frontend for the AI Study Assistant.
 
 ## Tech Stack
-- Java 17 + Spring Boot
-- MongoDB (local, port 27017)
-- Ollama with phi model (port 11434)
-- Apache PDFBox for PDF extraction
+- React 18 + React Router
+- Axios
+- Ollama phi model via backend API
 
 ## Setup
 
-### 1. Start Ollama
-ollama serve
-ollama pull phi
+### 1. Install dependencies
+npm install
 
-### 2. Start MongoDB
-mongod
+### 2. Make sure backend is running
+Backend must be running on http://localhost:8080
+https://github.com/syamkumarrangineedi/SmartStudy-Ai
 
-### 3. Run Backend
-mvn spring-boot:run
+### 3. Start frontend
+npm start
 
-Runs on → http://localhost:8080
+Opens at → http://localhost:3000
 
-## Frontend Repo
-https://github.com/syamkumarrangineedi/ai-study-assistant-ui
+## Features
+- AI Tutor Chat powered by Ollama phi model
+- Quiz Generator with score tracking
+- Multi-file PDF upload and Q&A
+- Student login and personalized dashboard
+- Session history with previous chat restore
+- Fully offline — no internet needed
