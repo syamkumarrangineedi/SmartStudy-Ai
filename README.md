@@ -9,8 +9,8 @@
 
 | Part | Repository |
 |------|-----------|
-| **Backend** (Spring Boot) | https://github.com/syamkumarrangineedi/SmartStudy-Ai |
-| **Frontend** (React) | https://github.com/syamkumarrangineedi/ai-study-assistant-ui |
+| full stack| (Spring Boot) | https://github.com/syamkumarrangineedi/SmartStudy-Ai |
+
 
 ---
 
