@@ -323,8 +323,4 @@ const API = axios.create({ baseURL: "http://localhost:8080/api" });
 **Syam Kumar Rangineedi**  
 GitHub: https://github.com/syamkumarrangineedi
 
----
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
